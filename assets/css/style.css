@@ -38,9 +38,9 @@ section {
 }
 
 section h3 {
-    border-bottom: 2px solid #007BFF;
+    border-bottom: 2px solid crimson;
     padding-bottom: 5px;
-    color: #007BFF;
+    color: brown;
 }
 
 ul {
@@ -53,7 +53,7 @@ ul li {
 }
 
 a {
-    color: #007BFF;
+    color: crimson;
     text-decoration: none;
 }
 #imagenEmergente {
@@ -80,7 +80,7 @@ div.tabla{
 }
 h1.titulo-portafolio{
     font-size: 2em;
-    color:#007BFF;
+    color: crimson;
     justify-content: center; 
     text-align: center;
 }
